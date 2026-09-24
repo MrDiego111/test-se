@@ -1,4 +1,8 @@
 Manzana
 Banano
 Naranja
+<<<<<<< HEAD
 Piña
+=======
+Lulo
+>>>>>>> ba375d6 (agregue lulo a las frutas)
